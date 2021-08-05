@@ -1,0 +1,5 @@
+services:
+  my-service:
+    image: springdocker:latest
+    ports:
+      - "8080:8080"
